@@ -73,6 +73,26 @@ a {
   color: #138073;
 }
 
+#root form input::-webkit-input-placeholder {
+  color: #138073;
+}
+
+#root form input:-ms-input-placeholder {
+  color: #138073;
+}
+
+#root form input::-ms-input-placeholder {
+  color: #138073;
+}
+
+#root form input::placeholder {
+  color: #138073;
+}
+
+#root form input::-webkit-input-placeholder {
+  color: #138073;
+}
+
 #root form div {
   display: -webkit-box;
   display: -ms-flexbox;

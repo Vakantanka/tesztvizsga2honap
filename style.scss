@@ -60,7 +60,9 @@ a {
         input::placeholder {
             color: $textColor;
         }
-
+        input::-webkit-input-placeholder {
+            color: $textColor;
+         }
         div {
             display: flex;
             width: 100%;

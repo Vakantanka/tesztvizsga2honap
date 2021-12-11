@@ -58,10 +58,10 @@ a {
             color: $textColor;
         }
         input::placeholder {
-            color: $textColor;
+            color: $buttonColor;
         }
         input::-webkit-input-placeholder {
-            color: $textColor;
+            color: $buttonColor;
          }
         div {
             display: flex;

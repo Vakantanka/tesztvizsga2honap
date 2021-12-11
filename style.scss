@@ -57,6 +57,9 @@ a {
             font-size: 16px;
             color: $textColor;
         }
+        input::placeholder {
+            color: $textColor;
+        }
 
         div {
             display: flex;
